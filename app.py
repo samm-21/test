@@ -67,7 +67,7 @@ for key,val in persona.items():
 #plot graph of student's performance
 
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 color_map = {
     'Weak': 'red',
