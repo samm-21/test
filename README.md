@@ -29,7 +29,7 @@ Insights:
 - Strengths and weaknesses are summarized in the persona object for recommendations.
 
 Screenshots of the output:
-![image](https://github.com/user-attachments/assets/402dc696-591d-4617-958c-cbcd67bbf6db)
+![Screenshot 2025-01-20 195322](https://github.com/user-attachments/assets/1e08a5dd-1710-4032-946f-aaee4cb31930)
 ![image](https://github.com/user-attachments/assets/b113f5e2-1fc1-4fc0-9fa9-226f279736d4)
 
 
