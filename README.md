@@ -1,5 +1,5 @@
 # Quiz Analyzer
-Quiz Analizer is a python based project which analyses the performance of a student from the quiz and provides information like the strengths and weaknesses of the student using historical data and visualises the performance in bar graph for a better understanding.
+Quiz Analyzer is a python based project which analyses the performance of a student from the quiz and provides information like the strengths and weaknesses of the student using historical data and visualises the performance in bar graph for a better understanding.
 
 # Key Features:
 - Fetches quiz and historical data from APIs.
@@ -8,7 +8,7 @@ Quiz Analizer is a python based project which analyses the performance of a stud
 - Visualizes performance using bar charts for easy understanding.
 
 # Setup:
-- python 3.8+
+- python 3.7+
 - Libraries: pandas,numpy,requests,matplotlib
 
 # Approach Description:
@@ -28,8 +28,15 @@ Visualization:
 Insights:
 - Strengths and weaknesses are summarized in the persona object for recommendations.
 
+
 Screenshots of the output:
 ![Screenshot 2025-01-20 195322](https://github.com/user-attachments/assets/1e08a5dd-1710-4032-946f-aaee4cb31930)
+
 ![image](https://github.com/user-attachments/assets/b113f5e2-1fc1-4fc0-9fa9-226f279736d4)
+
+
+Video:
+https://github.com/user-attachments/assets/768d5619-fe53-415e-b762-45c2d077cf90
+
 
 
